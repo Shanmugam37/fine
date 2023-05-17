@@ -1,9 +1,16 @@
 hello
-this is the shanmugam i am doin the merging concept 
+this is the shanmugam i am doin the merging concept
 commit 1.2
 commit d2.1
 commit d2.2
 commit d2.3
-[A[B[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3[3~[[C[C[C[C[C[C[C[C[C[C[Ccommit d2.3 with merge 
+<<<<<<< HEAD
+commit d2.3 with merge 
 commit d1.3 with merge dev2
 commit d 1.4 with merge dev2
+=======
+commit t1.1
+>>>>>>> test
+
+
+final commit d1.5 with merge of dev2 and test 
